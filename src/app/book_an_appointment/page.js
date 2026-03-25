@@ -37,7 +37,7 @@ export default function BookAnAppointmentPage() {
         <div className="site-shell grid gap-8 lg:grid-cols-[0.88fr_1.12fr]">
           <div className="rounded-[2rem] bg-[#16313b] px-7 py-8 text-white sm:px-9">
             <p className="section-kicker text-[#8fe8e2]">Easy appointment booking</p>
-            <h2 className="mt-4 font-[family:var(--font-cormorant)] text-[clamp(3rem,5vw,3rem)] font-bold leading-[0.92]">
+            <h2 className="mt-4 font-[family:var(--font-cormorant)] text-[clamp(2rem,5vw,3rem)] font-bold leading-[0.98]">
               Tell us what your smile needs and we&apos;ll help from there.
             </h2>
             <p className="mt-5 text-[16px] leading-8 text-white/74">
@@ -56,7 +56,7 @@ export default function BookAnAppointmentPage() {
           </div>
 
           <div className="card-surface p-6 sm:p-8">
-            <h2 className="text-[clamp(2.2rem,4vw,3.4rem)] font-[family:var(--font-cormorant)] font-bold leading-[0.96] text-[#16313b]">
+            <h2 className="text-[clamp(1.9rem,4vw,3.4rem)] font-[family:var(--font-cormorant)] font-bold leading-[0.96] text-[#16313b]">
               Request your visit
             </h2>
             <p className="mt-3 text-[15px] leading-8 text-[#5f7480]">

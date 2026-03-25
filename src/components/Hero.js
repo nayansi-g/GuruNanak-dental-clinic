@@ -107,7 +107,7 @@ export default function HeroSection() {
               className="absolute bottom-8 left-0 right-0 mx-auto grid w-[calc(100%-2.5rem)] gap-3 sm:grid-cols-2"
               variants={staggerContainer}
             >
-              <motion.div variants={fadeUp} className="rounded-[1.3rem] border border-white/55 bg-[rgba(255,255,255,0.86)] px-5 py-4 shadow-[0_16px_40px_rgba(22,49,59,0.08)] backdrop-blur-md">
+              <motion.div variants={fadeUp} className=" hidden md:block rounded-[1.3rem] border border-white/55 bg-[rgba(255,255,255,0.86)] px-5 py-4 shadow-[0_16px_40px_rgba(22,49,59,0.08)] backdrop-blur-md">
                 <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#10978f]">
                   Local trust
                 </p>

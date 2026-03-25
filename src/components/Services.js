@@ -121,12 +121,12 @@ export default function ServicesSection() {
               </motion.div>
               <motion.div
                 variants={fadeUp}
-                className="absolute bottom-8 left-8 max-w-[260px] rounded-[1.4rem] bg-[#16313b] px-5 py-5 text-white shadow-[0_18px_40px_rgba(22,49,59,0.18)]"
+                className="absolute bottom-4 md:bottom-8 left-8 max-w-[260px] rounded-md   md:rounded-[1.4rem] bg-[#16313b] px-3 md:px-5 py-2 md:py-5 text-white shadow-[0_18px_40px_rgba(22,49,59,0.18)]"
               >
                 <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#8fe8e2]">
                   Local SEO focus
                 </p>
-                <p className="mt-2 text-lg font-semibold leading-7">
+                <p className="mt-2 text-sm md:text-lg font-semibold leading-5 md:leading-7">
                   Family dentistry, smile design, and emergency dental appointments in New Delhi.
                 </p>
               </motion.div>
