@@ -6,7 +6,7 @@ import { breadcrumbSchema, buildMetadata } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "Book a Dental Appointment in New Delhi",
   description:
-    "Book a dental appointment at Guru Ram Dass Charitable Dental Clinic in New Delhi for checkups, teeth cleaning, cosmetic dentistry, kids dental care, second opinions, and urgent treatment.",
+    "Book a dental appointment at CHOPRA Dental Clinic in New Delhi for checkups, teeth cleaning, cosmetic dentistry, kids dental care, second opinions, and urgent treatment.",
   path: "/book_an_appointment",
   keywords: [
     "book dentist appointment in New Delhi",

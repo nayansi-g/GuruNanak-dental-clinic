@@ -23,7 +23,7 @@ const contactCards = [
   },
   {
     title: "Working Hours",
-    text: "Monday to Saturday 9:00 AM to 8:00 PM | Sunday 10:00 AM to 2:00 PM",
+    text: "Monday to Sunday 10:00 AM to 9:30 PM | Sunday 10:00 AM to 2:00 PM",
     icon: Clock,
   },
   {

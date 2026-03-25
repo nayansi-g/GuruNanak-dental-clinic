@@ -6,7 +6,7 @@ import { breadcrumbSchema, buildMetadata, faqSchema } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "Dental FAQ for Appointments, Treatment, and Oral Health",
   description:
-    "Read common dental questions about checkups, cosmetic treatment, emergency dentistry, kids dental visits, root canal care, and appointment planning at Guru Ram Dass Charitable Dental Clinic in New Delhi.",
+    "Read common dental questions about checkups, cosmetic treatment, emergency dentistry, kids dental visits, root canal care, and appointment planning at CHOPRA Dental Clinic in New Delhi.",
   path: "/faq",
   keywords: [
     "dental faq in New Delhi",

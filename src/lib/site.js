@@ -1,18 +1,18 @@
 export const clinic = {
-  name: "Guru Ram Dass Charitable Dental Clinic",
-  shortName: "Guru Ram Dass Charitable",
-  url: "https://www.gururamdasscharitabledentalclinic.com",
-  email: "care@gururamdasscharitabledentalclinic.com",
-  supportEmail: "appointments@gururamdasscharitabledentalclinic.com",
-  phone: "+91-7052-101-786",
-  telephoneHref: "tel:+917052101786",
+  name: "CHOPRA Dental Clinic",
+  shortName: "CHOPRA",
+  url: "https://www.chopradentalclinic.com",
+  email: "care@chopradentalclinic.com",
+  supportEmail: "appointments@chopradentalclinic.com",
+  phone: "+91-9350-210-615",
+  telephoneHref: "tel:+919350210615",
   priceRange: "$$",
   description:
-    "Guru Ram Dass Charitable Dental Clinic in New Delhi offers personalized family, cosmetic, restorative, pediatric, and emergency dental care with modern technology, transparent guidance, and a comfort-first patient experience.",
+    "CHOPRA Dental Clinic in New Delhi offers personalized family, cosmetic, restorative, pediatric, and emergency dental care with modern technology, transparent guidance, and a comfort-first patient experience.",
   tagline: "Personalized family and cosmetic dentistry for confident smiles in New Delhi.",
   address: {
-    streetAddress: "B- block, Gurudwara Rd, opp. Balaji Rasoi, Block A, Guru Ram Das Nagar, Laxmi Nagar,",
-    addressLocality: "New Delhi",
+    streetAddress: "B-8/187 SECTOR 5 ROHINI DELHI 110085 BEHIND MOUNT AABU PUBLIC SCHOOL,",
+    addressLocality: "Delhi",
     addressRegion: "Uttar Pradesh",
     postalCode: "110092",
     addressCountry: "IN",
@@ -23,10 +23,10 @@ export const clinic = {
   },
   openingHours: ["Mo-Sa 09:00-20:00", "Su 10:00-14:00"],
   socialLinks: [
-    "https://www.facebook.com/gururamdasscharitabledentalclinic",
-    "https://www.instagram.com/gururamdasscharitabledentalclinic",
-    "https://x.com/gururamdasscharitabledental",
-    "https://www.youtube.com/@gururamdasscharitabledentalclinic",
+    "https://www.facebook.com/chopradentalclinic",
+    "https://www.instagram.com/chopradentalclinic",
+    "https://x.com/chopradental",
+    "https://www.youtube.com/@chopradentalclinic",
   ],
 };
 

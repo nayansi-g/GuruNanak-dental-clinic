@@ -7,7 +7,7 @@ import { breadcrumbSchema, buildMetadata } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "Dental Blog With Oral Health Tips for New Delhi Patients",
   description:
-    "Read dental blog articles from Guru Ram Dass Charitable Dental Clinic in New Delhi covering teeth cleaning, cosmetic dentistry, kids dental care, root canal treatment, and emergency oral health advice.",
+    "Read dental blog articles from CHOPRA Dental Clinic in New Delhi covering teeth cleaning, cosmetic dentistry, kids dental care, root canal treatment, and emergency oral health advice.",
   path: "/blog",
   keywords: [
     "dental blog New Delhi",

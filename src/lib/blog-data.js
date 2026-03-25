@@ -9,7 +9,7 @@ export const blogPosts = [
     excerpt:
       "Persistent pain, swelling, and sensitivity can point to a deeper infection. Here is how to recognize when a root canal consultation may be the smarter next step.",
     content:
-      "Tooth pain is not always simple. If pain lingers, wakes you up at night, worsens while chewing, or comes with swelling, the issue may be deeper than enamel sensitivity. In those cases, a root canal evaluation can help save the natural tooth and stop infection from spreading. At Guru Ram Dass Charitable Dental Clinic in New Delhi, we explain what we see, what is urgent, and what treatment is actually necessary so patients can move forward with confidence.",
+      "Tooth pain is not always simple. If pain lingers, wakes you up at night, worsens while chewing, or comes with swelling, the issue may be deeper than enamel sensitivity. In those cases, a root canal evaluation can help save the natural tooth and stop infection from spreading. At CHOPRA Dental Clinic in New Delhi, we explain what we see, what is urgent, and what treatment is actually necessary so patients can move forward with confidence.",
     category: "Restorative Dentistry",
     tags: ["Root Canal", "Tooth Pain", "Emergency Dentistry"],
     featured: false,
@@ -39,7 +39,7 @@ export const blogPosts = [
     excerpt:
       "A child&apos;s first dental appointment shapes how they feel about dentistry for years. These simple steps can help make that visit easier and more positive.",
     content:
-      "A great first dental visit should feel calm, friendly, and age-appropriate. Parents can help by speaking positively about the dentist, choosing a quiet appointment time, and framing the visit as a chance to learn about healthy teeth rather than something scary. At Guru Ram Dass Charitable Dental Clinic, we make kids dental care more approachable through gentle introductions, short explanations, and a patient pace.",
+      "A great first dental visit should feel calm, friendly, and age-appropriate. Parents can help by speaking positively about the dentist, choosing a quiet appointment time, and framing the visit as a chance to learn about healthy teeth rather than something scary. At CHOPRA Dental Clinic, we make kids dental care more approachable through gentle introductions, short explanations, and a patient pace.",
     category: "Pediatric Dentistry",
     tags: ["Kids Dentist", "Family Dentistry", "First Visit"],
     featured: false,

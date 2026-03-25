@@ -95,8 +95,8 @@ export default function HeroSection() {
               variants={imageReveal}
             >
               <Image
-                src="/Hero-img.png"
-                alt="Smiling dentist welcoming a patient at Guru Ram Dass Charitable Dental Clinic in New Delhi"
+                src="/Amit_Chopra.png"
+                alt="Smiling dentist welcoming a patient at CHOPRA Dental Clinic in New Delhi"
                 width={620}
                 height={760}
                 className="h-auto w-full object-contain"

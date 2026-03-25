@@ -10,7 +10,7 @@ const faqs = [
   {
     question: "Do you provide cosmetic dentistry and family dentistry together?",
     answer:
-      "Yes. Guru Ram Dass Charitable Dental Clinic supports family dental care, smile makeovers, restorative treatment, and preventive visits in one location, making it easier to manage care for everyone in your home.",
+      "Yes. CHOPRA Dental Clinic supports family dental care, smile makeovers, restorative treatment, and preventive visits in one location, making it easier to manage care for everyone in your home.",
   },
   {
     question: "Can anxious patients ask for a slower, more explained treatment experience?",

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Star, Quote, ArrowRight } from "lucide-react";
+import { Star, Quote, ArrowRight, User } from "lucide-react";
 
 const testimonials = [
   {
@@ -8,7 +8,7 @@ const testimonials = [
     name: "Ananya Sharma",
     role: "Smile makeover patient from New Delhi",
     image: "/testimonals1.png",
-    text: "I wanted a clinic that would explain cosmetic dentistry properly instead of pushing treatment. Guru Ram Dass Charitable made me feel heard, showed me realistic options, and gave me a smile that still feels natural.",
+    text: "I wanted a clinic that would explain cosmetic dentistry properly instead of pushing treatment. CHOPRA made me feel heard, showed me realistic options, and gave me a smile that still feels natural.",
   },
   {
     id: 2,
@@ -19,14 +19,14 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "Ananya Sharma",
+    name: "keerti Thakur",
     role: "Smile makeover patient from New Delhi",
     image: "/testimonals1.png",
-    text: "I wanted a clinic that would explain cosmetic dentistry properly instead of pushing treatment. Guru Ram Dass Charitable made me feel heard, showed me realistic options, and gave me a smile that still feels natural.",
+    text: "I wanted a clinic that would explain cosmetic dentistry properly instead of pushing treatment. CHOPRA made me feel heard, showed me realistic options, and gave me a smile that still feels natural.",
   },
   {
     id: 4,
-    name: "Rahul Verma",
+    name: "Himanshu Anand",
     role: "Family dentistry patient",
     image: "/testimonal2.png",
     text: "We now book for the whole family here. The team is patient with kids, clear with adults, and genuinely helpful when something urgent comes up. It feels personal every single time.",
@@ -44,14 +44,8 @@ function TestimonialCard({ item }) {
     <div className="card-surface relative h-full p-7">
       <Quote className="absolute right-6 top-6 h-11 w-11 text-[#d7ebe6]" />
       <div className="flex items-center gap-4">
-        <div className="h-16 w-16 overflow-hidden rounded-full border border-[#d6e4df]">
-          <Image
-            src={item.image}
-            alt={`${item.name} reviewing care at Guru Ram Dass Charitable Dental Clinic`}
-            width={64}
-            height={64}
-            className="h-full w-full object-cover"
-          />
+        <div className=" overflow-hidden flex justify-center p-2 items-center rounded-full border border-[#d6e4df]">
+          <User className="w-9 h-9 " />
         </div>
         <div>
           <h3 className="text-xl font-semibold text-[#16313b]">{item.name}</h3>

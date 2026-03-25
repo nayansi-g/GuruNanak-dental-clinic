@@ -12,22 +12,14 @@ export default function Navbar() {
           className="flex items-center gap-3"
           aria-label={`${clinic.name} homepage`}
         >
-          <div className="relative h-12 w-12 overflow-hidden rounded-full border border-[#cfe3dd] bg-white shadow-[0_12px_28px_rgba(22,49,59,0.08)]">
+          <div className="relative h-18 w-45 overflow-hidden ">
             <Image
-              src="/dental-img_logo.png"
+              src="/Chopra_logo_new.png"
               alt={`${clinic.name} logo`}
               fill
               className="object-contain"
               priority
             />
-          </div>
-          <div>
-            <p className="font-[family:var(--font-cormorant)] text-xl font-bold leading-[1.2] text-[#16313b]">
-              Guru Ram Dass  
-            </p>
-            <p className="text-xs font-semibold uppercase tracking-[0.14em] text-[#5f7480]">
-             Charitable Dental Clinic
-            </p>
           </div>
         </Link>
 

@@ -35,7 +35,7 @@ export default function AboutSection() {
             <motion.div className="relative overflow-hidden rounded-[1.7rem]" variants={imageReveal}>
               <Image
                 src="/about-img.png"
-                alt="Dentist speaking with a patient during a personalized consultation at Guru Ram Dass Charitable Dental Clinic"
+                alt="Dentist speaking with a patient during a personalized consultation at CHOPRA Dental Clinic"
                 width={560}
                 height={650}
                 className="h-auto w-full object-cover"
@@ -66,13 +66,13 @@ export default function AboutSection() {
           viewport={viewportOnce}
         >
           <motion.p variants={fadeUp} className="section-kicker">
-            Why local families choose Guru Ram Dass Charitable
+            Why local families choose CHOPRA
           </motion.p>
           <motion.h2 variants={fadeUp} className="section-title text-left">
             Dentistry that feels more human, more transparent, and far less intimidating.
           </motion.h2>
           <motion.p variants={fadeUp} className="section-copy max-w-[620px]">
-            We built Guru Ram Dass Charitable Dental Clinic for people who want more than quick appointments and clinical language.
+            We built CHOPRA Dental Clinic for people who want more than quick appointments and clinical language.
             Our team takes time to understand your concerns, explain your options in plain words, and shape treatment
             around the way you actually live.
           </motion.p>

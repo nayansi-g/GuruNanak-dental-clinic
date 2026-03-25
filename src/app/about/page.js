@@ -8,9 +8,9 @@ import { CheckCircle2 } from "lucide-react";
 import { breadcrumbSchema, buildMetadata, faqSchema } from "@/lib/site";
 
 export const metadata = buildMetadata({
-  title: "About Guru Ram Dass Charitable Dental Clinic in New Delhi",
+  title: "About CHOPRA Dental Clinic in New Delhi",
   description:
-    "Learn about Guru Ram Dass Charitable Dental Clinic in New Delhi, our patient-first approach, experienced dentists, modern diagnostics, and personalized family and cosmetic dental care.",
+    "Learn about CHOPRA Dental Clinic in New Delhi, our patient-first approach, experienced dentists, modern diagnostics, and personalized family and cosmetic dental care.",
   path: "/about",
   keywords: [
     "about dental clinic in New Delhi",
@@ -22,7 +22,7 @@ export const metadata = buildMetadata({
 
 const aboutFaqs = [
   {
-    question: "What makes Guru Ram Dass Charitable Dental Clinic different from other dental clinics in New Delhi?",
+    question: "What makes CHOPRA Dental Clinic different from other dental clinics in New Delhi?",
     answer:
       "We combine modern dentistry with a more personal approach. Patients get clear explanations, comfort-focused treatment, realistic planning, and a team that takes time to understand their concerns.",
   },
@@ -66,7 +66,7 @@ export default function AboutPage() {
               <div className="overflow-hidden rounded-[1.6rem]">
                 <Image
                   src="/about-img.png"
-                  alt="Dentist explaining treatment options to a patient at Guru Ram Dass Charitable Dental Clinic"
+                  alt="Dentist explaining treatment options to a patient at CHOPRA Dental Clinic"
                   width={560}
                   height={640}
                   className="h-auto w-full object-cover"
@@ -82,7 +82,7 @@ export default function AboutPage() {
               We built this clinic for patients who want calm guidance, not rushed decisions.
             </h2>
             <p className="section-copy max-w-[640px]">
-              Guru Ram Dass Charitable Dental Clinic serves New Delhi families with a better kind of dental experience: one that balances
+              CHOPRA Dental Clinic serves New Delhi families with a better kind of dental experience: one that balances
               expert treatment with empathy, honesty, and practical recommendations. We believe trust is built when
               patients understand what is happening and why.
             </p>

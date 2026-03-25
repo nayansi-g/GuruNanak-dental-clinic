@@ -9,7 +9,7 @@ import { breadcrumbSchema, buildMetadata, faqSchema, serviceSchema } from "@/lib
 export const metadata = buildMetadata({
   title: "Dental Services in New Delhi for Family, Cosmetic and Emergency Care",
   description:
-    "Explore dental services at Guru Ram Dass Charitable Dental Clinic in New Delhi including checkups, cleaning, cosmetic dentistry, root canal treatment, kids dental care, restorative work, and emergency support.",
+    "Explore dental services at CHOPRA Dental Clinic in New Delhi including checkups, cleaning, cosmetic dentistry, root canal treatment, kids dental care, restorative work, and emergency support.",
   path: "/services",
   keywords: [
     "dental services in New Delhi",
@@ -36,7 +36,7 @@ const services = [
     title: "Cosmetic Dentistry and Smile Design",
     description: "Personalized cosmetic treatment planning for brighter, more balanced, and natural-looking smiles.",
     details:
-      "Cosmetic dentistry at Guru Ram Dass Charitable is built around proportion, facial harmony, and realistic outcomes. We help patients understand which changes will make the biggest difference without over-treatment.",
+      "Cosmetic dentistry at CHOPRA is built around proportion, facial harmony, and realistic outcomes. We help patients understand which changes will make the biggest difference without over-treatment.",
     includes: [
       "Smile consultation and visual planning",
       "Whitening, alignment, and design options",
@@ -91,7 +91,7 @@ const services = [
 
 const serviceFaqs = [
   {
-    question: "Which dental services do you offer at Guru Ram Dass Charitable Dental Clinic in New Delhi?",
+    question: "Which dental services do you offer at CHOPRA Dental Clinic in New Delhi?",
     answer:
       "We offer preventive checkups, teeth cleaning, cosmetic smile planning, root canal treatment, restorative dentistry, kids dental care, family appointments, emergency dentistry, and second-opinion consultations.",
   },

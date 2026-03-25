@@ -48,7 +48,7 @@ export default function BlogDetailsPage({ params }) {
     },
     publisher: {
       "@type": "Organization",
-      name: "Guru Ram Dass Charitable Dental Clinic",
+      name: "CHOPRA Dental Clinic",
       logo: {
         "@type": "ImageObject",
         url: absoluteUrl("/Dental-logo.png"),
